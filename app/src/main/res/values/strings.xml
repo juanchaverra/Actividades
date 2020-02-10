@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividades</string>
+    <string name="title_activity_receptor">Receptor</string>
+    <string name="menu_abrir">abrir otra interfaz</string>
+    <string name="area">Area de un cuadrado</string>
+    <string name="lado">lado</string>
+    <string name="area2">Area</string>
+</resources>
