@@ -6,12 +6,12 @@
         android:title="@string/menu_abrir"
         android:id="@+id/menu_abrir"
         android:icon="@mipmap/ic_launcher"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="never" />
 
     <item
         android:title="@string/area"
         android:id="@+id/area"
         android:icon="@mipmap/ic_launcher"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="never"/>
 
 </menu>
